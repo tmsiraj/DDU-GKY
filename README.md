@@ -1,2 +1,2 @@
 # DDU-GKY
-### This is my DDUGKY Study Materials.
+### This is my DDUGKY Study Material.
